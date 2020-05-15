@@ -1,6 +1,7 @@
 # Custom excludes
 Archive/
 data/
+.vscode
 
   
 # General

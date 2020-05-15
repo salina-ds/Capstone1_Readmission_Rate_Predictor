@@ -1,0 +1,14 @@
+autopep8
+notebook
+pandas
+matplotlib
+wordcloud
+scipy
+numpy
+datetime
+nltk
+scikit-learn
+sklearn_pandas
+xgboost
+seaborn
+jupyter_nbextensions_configurator
